@@ -1,6 +1,4 @@
-
 from .api import TelegraphApi
-
 
 def upload_file(f):
     """Deprecated, use Telegraph.upload_file"""
